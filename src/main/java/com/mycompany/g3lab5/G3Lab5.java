@@ -12,6 +12,6 @@ package com.mycompany.g3lab5;
 public class G3Lab5 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("สวัสดีชาวโลก");
     }
 }
